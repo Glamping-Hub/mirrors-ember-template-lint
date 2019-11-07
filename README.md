@@ -12,7 +12,7 @@ For ember-template-lint: see https://github.com/ember-template-lint/ember-templa
 
 Add this to your `.pre-commit-config.yaml`:
 
-    -   repo: ./ember-template-lint-pre-commit
+    -   repo: https://github.com/Glamping-Hub/mirrors-ember-template-lint
         rev: master
         hooks:
           - id: ember-template-lint
