@@ -8,5 +8,4 @@
     require_serial: false
     additional_dependencies: [
         "ember-template-lint@2.15.0",
-        "ember-template-lint-plugin-prettier@2.0.0",
     ]
