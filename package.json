@@ -1,5 +1,5 @@
 {
-  "name": "dummy_package",
-  "description": "Note: double curly-braces because python .format",
-  "version": "0.0.0"
+  "name": "ember-template-lint",
+  "description": "Ember template lint plugin for pre-commit",
+  "version": "2.15.0"
 }
