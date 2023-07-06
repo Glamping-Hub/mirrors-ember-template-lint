@@ -1,5 +1,5 @@
 {
   "name": "ember-template-lint",
   "description": "Ember template lint plugin for pre-commit",
-  "version": "2.15.0"
+  "version": "5.7.2"
 }

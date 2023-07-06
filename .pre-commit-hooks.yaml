@@ -7,5 +7,5 @@
     args: []
     require_serial: false
     additional_dependencies: [
-        "ember-template-lint@2.15.0",
+        "ember-template-lint@5.7.2",
     ]
