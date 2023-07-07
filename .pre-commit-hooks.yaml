@@ -6,6 +6,5 @@
     files: "\\.(hbs)$"
     args: []
     require_serial: false
-    additional_dependencies: [
-        "ember-template-lint@5.7.2",
-    ]
+    additional_dependencies: ["ember-template-lint@5.7.3"]
+    minimum_pre_commit_version: '0'
