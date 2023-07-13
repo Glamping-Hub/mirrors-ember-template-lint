@@ -1,8 +1,9 @@
 -   id: ember-template-lint
     name: ember-template-lint
+    description: ''
     entry: ember-template-lint
     language: node
-    types: [file]
+    'types': [file]
     files: "\\.(hbs)$"
     args: []
     require_serial: false
