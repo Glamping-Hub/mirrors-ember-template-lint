@@ -1,5 +1,5 @@
 {
-  "name": "ember-template-lint-pre-commit-hook",
+  "name": "placeholder_package",
   "description": "Ember template lint plugin for pre-commit",
-  "version": "5.7.3"
+  "version": "0.0.0"
 }
